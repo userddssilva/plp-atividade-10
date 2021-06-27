@@ -1,9 +1,9 @@
 # Atividade 10
 
 > Dayvson Silva - ddss.snf19@uea.edu.br<br/>
-Jonatas
-Jackson
-Lucas
+Jonatas<br/>
+Jackson<br/>
+Lucas<br/>
 
 ## O programa Morte Por Concorrência
 
@@ -48,9 +48,9 @@ public class Death {
 100000 processos e 10000 mensagens
 
 
-**Anote e apresente os tempos **
+**Anote e apresente os tempos**
 
 
 > Entregável:<br/>
 - Programas no github e rodando na hora da aula
-- APresentação
+- Apresentação
