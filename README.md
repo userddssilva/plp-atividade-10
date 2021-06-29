@@ -1,6 +1,6 @@
 # Atividade 10
 
-> Dayvson Silva - ddss.snf19@uea.edu.br<br/>
+> Dayvson - ddss.snf19@uea.edu.br<br/>
 Jonatas - jtsdb.snf19@uea.edu.br<br/>
 Jackson - jgg.snf@uea.edu.br<br/>
 Lucas - lms.snf19@uea.edu.br<br/>
