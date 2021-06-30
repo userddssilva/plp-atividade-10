@@ -26,3 +26,6 @@ get_time(H, M) ->
 	{_, Time} = statistics(runtime),
 	io:format("it took ~p ms to execute~n", [Time]),
 	exit(self(), ok).
+
+
+

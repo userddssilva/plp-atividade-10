@@ -10,15 +10,11 @@ public class Main {
         System.out.println("Times:");
         int times   = Integer.parseInt(scan.nextLine());
 
-        long start = System.currentTimeMillis();
         for(int i=threads;i>0;i--) {
             MiniThread t = new MiniThread(i);
             t.start();
         }
 
-        long end = System.currentTimeMillis();
-
-        System.out.println(end - start + "ms");
 
     }
 }
